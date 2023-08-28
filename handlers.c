@@ -8,7 +8,7 @@
  * fun_pall - print all stack handler
  * @stack: pointer the stack
  * @line: current executing line
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  *
  * Return: void
  */
@@ -41,7 +41,7 @@ void fun_pall(stack_t **stack,  unsigned int line)
  * fun_pint - print the data of the last stack
  * @stack: pointer to the stack
  * @line: current executing lien
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  *
  * Return: void
  */
@@ -62,7 +62,7 @@ void fun_pint(stack_t **stack, unsigned int line)
  * fun_pop - handler for pop function
  * @stack: pointer to the stack
  * @line: current executing line
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  *
  * Return: void
  */
@@ -82,7 +82,7 @@ void fun_pop(stack_t **stack, unsigned int line)
  * fun_swap - This function swaps two element of the stack
  * @stack: pointer to the head stack
  * @line: current executing line
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  *
  * Return: void
  */
@@ -113,7 +113,7 @@ void fun_swap(stack_t **stack, unsigned int line)
  * fun_push - handler for push function
  * @stack: pointer to the stack
  * @arg: integer data
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  *
  * Return: void
  */
