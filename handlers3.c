@@ -8,7 +8,7 @@
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_mod(stack_t **stack, unsigned int line)
@@ -40,7 +40,7 @@ void fun_mod(stack_t **stack, unsigned int line)
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_pchar(stack_t **stack, unsigned int line)
@@ -68,7 +68,7 @@ void fun_pchar(stack_t **stack, unsigned int line)
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_pstr(stack_t **stack, unsigned int line)
@@ -91,7 +91,7 @@ void fun_pstr(stack_t **stack, unsigned int line)
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_rotl(stack_t **stack, unsigned int line)
