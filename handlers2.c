@@ -7,7 +7,7 @@
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_add(stack_t **stack, unsigned int line)
@@ -39,7 +39,7 @@ void fun_add(stack_t **stack, unsigned int line)
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_nop(stack_t **stack, unsigned int line)
@@ -58,7 +58,7 @@ void fun_nop(stack_t **stack, unsigned int line)
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_sub(stack_t **stack, unsigned int line)
@@ -88,7 +88,7 @@ void fun_sub(stack_t **stack, unsigned int line)
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_div(stack_t **stack, unsigned int line)
@@ -120,7 +120,7 @@ void fun_div(stack_t **stack, unsigned int line)
  * @stack: pointer to the head stack
  * @line: current executing line
  *
- * Author - Thaoban Abdrasheed
+ * Author - Abdulkareem Olumoh
  * Return: void
  */
 void fun_mul(stack_t **stack, unsigned int line)
